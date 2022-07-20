@@ -1,8 +1,9 @@
 import './App.css';
+import ContainerBox from './components/ContainerBox';
 
 function App() {
   return (
-    <div>Hello World</div>
+    <ContainerBox />
   );
 }
 
